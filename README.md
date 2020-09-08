@@ -9,7 +9,15 @@ npm install
 ```
 npm run serve
 ```
+### Screenshots
+<div align="center">
+    <img src="/screenshots/Dashboard.png" width="400px"</img> 
+</div>
+----------------------------------------------------------------------
 
+<div align="center">
+    <img src="/screenshots/Configuration.png" width="400px"</img> 
+</div>
 ### Compiles and minifies for production
 ```
 npm run build
